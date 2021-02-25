@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "armazenar.md",
-            "mode": "source"
+            "file": "index.md",
+            "mode": "preview"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "armazenar.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,9 +86,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "index.md",
     "armazenar.md",
     "coleta.md",
-    "index.md",
     "infraestrutura.md",
     "Pipeline.md",
     "questao3.md",

@@ -141,7 +141,7 @@ A empresa de marketing ZYZ está em busca de entender o comportamento dos usuár
 
 - Definir o [Pipeline](Pipeline.md) de dados
 
-A entrega é o [desenho](PipelineDosDados.png) do fluxo de coleto com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
+A entrega é o [desenho](PipelineDosDados.png) do fluxo de coleta com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
 
   1. [Por que você decidiu utilizar esta infraestrutura?](questao1.md)
   2. [Quais benefícios?](questao2.md)
