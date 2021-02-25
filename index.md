@@ -127,9 +127,9 @@ A empresa de marketing ZYZ está em busca de entender o comportamento dos usuár
 
 - Decidir a melhor forma de [armazenar](armazenar.md) os tweets
 
-- Definir a infraestrutura a ser utilizada
+- Definir a [infraestrutura](infraestrutura.md) a ser utilizada
 
-- Definir o Pipeline de dados
+- Definir o [Pipeline](Pipeline.md) de dados
 
 A entrega é o desenho do fluxo de coleto com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
 
