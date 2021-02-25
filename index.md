@@ -129,6 +129,8 @@ print([[X, Y, Z] for X in range(x+1) for Y in range(y+1) for Z in range(z+1) if 
 
 A empresa de marketing ZYZ está em busca de entender o comportamento dos usuários nas redes sociais, com isso surgiu a necessidade de criar uma análise de sentimento no Twitter. Você como engenheiro de dados precisa montar uma estratégia de coleta de dados de tweets para que posteriormente os analistas possam prosseguir com o projeto.
 
+**Clique nos links para ver as respostas**
+
 ### Escopo do projeto
 
 - Definir o método de [coleta](coleta.md)
@@ -142,6 +144,6 @@ A empresa de marketing ZYZ está em busca de entender o comportamento dos usuár
 A entrega é o [desenho](PipelineDosDados.png) do fluxo de coleto com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
 
   1. [Por que você decidiu utilizar esta infraestrutura?](questao1.md)
-  2. Quais benefícios?
-  3. Quais pontos de melhorias?
-  4. É uma infraestrutura escalável?
+  2. [Quais benefícios?](questao2.md)
+  3. [Quais pontos de melhorias?](questao3.md)
+  4. [É uma infraestrutura escalável?](questao4.md)
