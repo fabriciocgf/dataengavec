@@ -147,3 +147,9 @@ A entrega é o [desenho](PipelineDosDados.png) do fluxo de coleta com as ferrame
   2. [Quais benefícios?](questao2.md)
   3. [Quais pontos de melhorias?](questao3.md)
   4. [É uma infraestrutura escalável?](questao4.md)
+  
+Algumas referencias utilizadas:
+- [Knowledge Delivery at the Point of Care Empowered by Big Data and NLP](BigDataAndNLP.pdf)
+- [Tweet analytics using NLP](https://medium.com/analytics-vidhya/tweet-analytics-using-nlp-f83b9f7f7349)
+- [Construindo um Pipeline de Dados com NiFi, Kafka e S3](https://medium.com/data-hackers/construindo-um-pipeline-de-dados-com-nifi-kafka-e-s3-parte-1-2-d7e4a9aeb136)
+- [From Streaming Data to COVID-19 Twitter Analysis: Using Spark and AWS Kinesis](https://towardsdatascience.com/playing-with-data-gracefully-1-a-near-real-time-data-pipeline-using-spark-structured-streaming-409dc1b4aa3a)

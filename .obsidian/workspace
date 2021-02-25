@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "ea8a68420d11a92e",
+        "id": "fff456093e2a8cc0",
         "type": "leaf",
         "active": true,
         "state": {
@@ -87,6 +87,7 @@
   },
   "lastOpenFiles": [
     "index.md",
+    "BigDataAndNLP.pdf",
     "armazenar.md",
     "coleta.md",
     "infraestrutura.md",
@@ -94,7 +95,6 @@
     "questao3.md",
     "questao4.md",
     "questao2.md",
-    "questao1.md",
-    "PipelineDosDados.png"
+    "questao1.md"
   ]
 }
