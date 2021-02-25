@@ -10,8 +10,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "index.md",
-            "mode": "preview"
+            "file": "Pipeline.md",
+            "mode": "source"
           }
         }
       }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Pipeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,12 +86,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Pipeline.md",
+    "infraestrutura.md",
+    "coleta.md",
     "index.md",
     "BigDataAndNLP.pdf",
     "armazenar.md",
-    "coleta.md",
-    "infraestrutura.md",
-    "Pipeline.md",
     "questao3.md",
     "questao4.md",
     "questao2.md",
