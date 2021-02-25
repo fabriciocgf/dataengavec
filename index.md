@@ -29,7 +29,7 @@ from (select distinct submission_date
 group by submission_date
 ```
 
-### Top COmpetitors
+### Top Competitors
 Desafio: [link](https://www.hackerrank.com/challenges/full-score/problem)
 
 ```mysql
