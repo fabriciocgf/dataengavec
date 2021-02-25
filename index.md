@@ -7,21 +7,21 @@ Estes desafios são para testar sua habilidade técnicas, a maior parte dos desa
 ### 15 Days of Learning SQL
 
 ```mysql
-select submission_date, 
+select submission_date,
 (select count(distinct hacker_id)  
     from submissions as sub  
-    where sub.submission_date = s.submission_date 
-    and (select count(distinct sub2.submission_date) 
-            from submissions as sub2 
-            where sub2.hacker_id = sub.hacker_id 
-            and sub2.submission_date < s.submission_date) = 
+    where sub.submission_date = s.submission_date
+    and (select count(distinct sub2.submission_date)
+            from submissions as sub2
+            where sub2.hacker_id = sub.hacker_id
+            and sub2.submission_date < s.submission_date) =
             datediff(s.submission_date , '2016-03-01')),
 (select hacker_id  
-    from submissions as sub 
-    where sub.submission_date = s.submission_date 
-    group by hacker_id 
+    from submissions as sub
+    where sub.submission_date = s.submission_date
+    group by hacker_id
     order by count(submission_id) desc , hacker_id limit 1) as aux,
-(select name 
+(select name
     from hackers where hacker_id = aux)
 from (select distinct submission_date
         from submissions) as s
@@ -33,10 +33,10 @@ group by submission_date
 ```mysql
 select hack.hacker_id, hack.name
 from hackers as hack join submissions as sub
-on hack.hacker_id = sub.hacker_id 
-join challenges as cll 
+on hack.hacker_id = sub.hacker_id
+join challenges as cll
 on sub.challenge_id = cll.challenge_id
-join difficulty as df 
+join difficulty as df
 on cll.difficulty_level = df.difficulty_level
 where sub.score = df.score
 group by hack.hacker_id, hack.name
