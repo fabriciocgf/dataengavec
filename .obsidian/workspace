@@ -8,10 +8,9 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "index.md",
-            "mode": "source"
+            "file": "PipelineDosDados.png"
           }
         }
       }
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "PipelineDosDados.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +85,12 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "PipelineDosDados.png",
+    "infraestrutura.md",
+    "questao1.md",
     "index.md",
     "Pipeline.md",
-    "infraestrutura.md",
-    "coleta.md",
-    "armazenar.md"
+    "armazenar.md",
+    "coleta.md"
   ]
 }

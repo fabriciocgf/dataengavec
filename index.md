@@ -5,6 +5,7 @@ Estes desafios são para testar sua habilidade técnicas, a maior parte dos desa
 ## Desafio SQL, fique a vontade para usar a linguagem SQL de sua preferência.
 
 ### 15 Days of Learning SQL
+Desafio: [link](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem)
 
 ```mysql
 select submission_date, 
@@ -29,6 +30,7 @@ group by submission_date
 ```
 
 ### Top COmpetitors
+Desafio: [link](https://www.hackerrank.com/challenges/full-score/problem)
 
 ```mysql
 select hack.hacker_id, hack.name
@@ -49,6 +51,7 @@ order by count(sub.hacker_id) desc, sub.hacker_id asc;
 ##  Estrutura de Dados
 
 ### Print in Reverse
+Desafio: [link](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list-in-reverse/problem)
 
 ```python
 def reversePrint(head):
@@ -59,6 +62,7 @@ def reversePrint(head):
 ```
 
 ### Maximum Element
+Desafio: [link](https://www.hackerrank.com/challenges/maximum-element/problem)
 
 ```python
 num_q = int(input())
@@ -82,6 +86,7 @@ for i in range(num_q):
 ## Desafio Python
 
 ### Validating Postal Codes
+Desafio: [link](https://www.hackerrank.com/challenges/validating-postalcode/problem)
 
 ```python
 regex_integer_in_range = r"^[1-9]\d{5}$"
@@ -89,6 +94,7 @@ regex_alternating_repetitive_digit_pair = r"(?=(\d)\d\1)"
 ```
 
 ### Write a function
+Desafio: [link](https://www.hackerrank.com/challenges/write-a-function/problem)
 
 ```python
 def is_leap(year):
@@ -103,6 +109,7 @@ def is_leap(year):
 ```
 
 ### String Split and Join
+Desafio: [link](https://www.hackerrank.com/challenges/python-string-split-and-join/problem)
 
 ```python
 def split_and_join(line):
@@ -110,6 +117,7 @@ def split_and_join(line):
 ```
 
 ### List Comprehensions
+Desafio: [link](https://www.hackerrank.com/challenges/list-comprehensions/problem)
 
 ```python
 print([[X, Y, Z] for X in range(x+1) for Y in range(y+1) for Z in range(z+1) if X + Y + Z != n])
@@ -131,9 +139,9 @@ A empresa de marketing ZYZ está em busca de entender o comportamento dos usuár
 
 - Definir o [Pipeline](Pipeline.md) de dados
 
-A entrega é o desenho do fluxo de coleto com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
+A entrega é o [desenho](PipelineDosDados.png) do fluxo de coleto com as ferramentas que serão utilizadas e com suas conclusões sobre a infraestrutura
 
-  1. Por que você decidiu utilizar esta infraestrutura?
+  1. [Por que você decidiu utilizar esta infraestrutura?](questao1.md)
   2. Quais benefícios?
   3. Quais pontos de melhorias?
   4. É uma infraestrutura escalável?
