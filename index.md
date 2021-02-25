@@ -1,5 +1,3 @@
-[TOC]
-
 # Eng. de dados
 
 Estes desafios são para testar sua habilidade técnicas, a maior parte dos desafios são extraídos do HackerRank, no final o que queremos é um arquivo com os scripts dos desafios, não tenha medo de errar, errar faz parte da sua evolução. Boa Sorte!

@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "6c51351e10af0337",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8a68420d11a92e",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "armazenar.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1146f6703217d426",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b9fb999bb29719d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c4f8fb4c9556f71",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d482de76ec38156",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bac2924dd4ee0e50",
+    "type": "split",
+    "children": [
+      {
+        "id": "45c730c8cffe3b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8ae888922e4491e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "armazenar.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "armazenar.md",
+    "coleta.md",
+    "index.md"
+  ]
+}
