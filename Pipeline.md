@@ -4,6 +4,6 @@ O pipeline foi definido utilizando a infraestrutura, mecanismos de coleta e arma
 
 ![pipeline.png](PipelineDosDados.png)
 
-Este pipeline é constituído por um script rodando em uma instância EC2, que alimenta uma stream de dados no Kinesys onde esses dados são salvos num bucket S3. Para em um momento posterior serem processados por uma função Lambda e seus resultados serem salvos no Elasticsearch.
+Este pipeline é constituído por um script rodando em uma instância EC2, que alimenta uma stream de dados no Kinesis onde esses dados são salvos num bucket S3. Para em um momento posterior serem processados por uma função Lambda e seus resultados serem salvos no Elasticsearch.
 
 [voltar para home](index.md)
