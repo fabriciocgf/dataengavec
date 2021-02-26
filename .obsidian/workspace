@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Pipeline.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -87,6 +87,7 @@
   },
   "lastOpenFiles": [
     "Pipeline.md",
+    "PipelineDosDados.png",
     "infraestrutura.md",
     "coleta.md",
     "index.md",
@@ -94,7 +95,6 @@
     "armazenar.md",
     "questao3.md",
     "questao4.md",
-    "questao2.md",
-    "questao1.md"
+    "questao2.md"
   ]
 }
